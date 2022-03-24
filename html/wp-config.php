@@ -75,14 +75,14 @@ define( 'DB_COLLATE', getenv_docker('WORDPRESS_DB_COLLATE', '') );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         getenv_docker('WORDPRESS_AUTH_KEY',         'ebf522334ae565f7fc68a4c5ab7ce864e65c4f04') );
-define( 'SECURE_AUTH_KEY',  getenv_docker('WORDPRESS_SECURE_AUTH_KEY',  '42cb70788fd0e178ab6677dc8c582582fe0d3684') );
-define( 'LOGGED_IN_KEY',    getenv_docker('WORDPRESS_LOGGED_IN_KEY',    'ab0a8b38c585d6f7bc19553308df5666bf9c6011') );
-define( 'NONCE_KEY',        getenv_docker('WORDPRESS_NONCE_KEY',        'b399d646933f4fc6f25c5360b276f3b24e112f02') );
-define( 'AUTH_SALT',        getenv_docker('WORDPRESS_AUTH_SALT',        '7318e93cb920ec0d56b924e24e8191ca77696328') );
-define( 'SECURE_AUTH_SALT', getenv_docker('WORDPRESS_SECURE_AUTH_SALT', 'ead29b3f9cac5b4ebf241532d50147edd36f6541') );
-define( 'LOGGED_IN_SALT',   getenv_docker('WORDPRESS_LOGGED_IN_SALT',   'bb2e687ddca0b3fc6ce60c7bdfa735ed8fc63249') );
-define( 'NONCE_SALT',       getenv_docker('WORDPRESS_NONCE_SALT',       'c03632b510b92495082c8f8de2bff80186058fab') );
+define( 'AUTH_KEY',         getenv_docker('WORDPRESS_AUTH_KEY',         '329c0f60cb24fa73b489d024753e4451c2629f7b') );
+define( 'SECURE_AUTH_KEY',  getenv_docker('WORDPRESS_SECURE_AUTH_KEY',  '4015e428b4a5c554724e2a42fcb6c570a14ee5cf') );
+define( 'LOGGED_IN_KEY',    getenv_docker('WORDPRESS_LOGGED_IN_KEY',    '12ba2f2c979a84a112a7a3ee9d3a5e4d50475164') );
+define( 'NONCE_KEY',        getenv_docker('WORDPRESS_NONCE_KEY',        '3f46ecf3ad1a0656e0d7da55dce71cc8b0648db5') );
+define( 'AUTH_SALT',        getenv_docker('WORDPRESS_AUTH_SALT',        'f0d1b3709c827a6204a88339ab1acbb22cfce430') );
+define( 'SECURE_AUTH_SALT', getenv_docker('WORDPRESS_SECURE_AUTH_SALT', 'c427a9d6411d68b275cdaf404f1d982f6bfae4df') );
+define( 'LOGGED_IN_SALT',   getenv_docker('WORDPRESS_LOGGED_IN_SALT',   'b27a73e735b0c1dcf778f3368637c5cbdcce1ae7') );
+define( 'NONCE_SALT',       getenv_docker('WORDPRESS_NONCE_SALT',       '1c1263c6eba69cc35134c637b1f76f1b818a3441') );
 // (See also https://wordpress.stackexchange.com/a/152905/199287)
 
 /**#@-*/
@@ -131,5 +131,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-
-define( 'FS_METHOD', 'direct' );
