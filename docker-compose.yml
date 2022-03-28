@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   wordpress:
-    image: rockexe0000/my_wordpress
+    image: wordpress:5.9.2
     restart: always
     container_name: wordpress-web
     ports:
