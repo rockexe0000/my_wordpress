@@ -35,3 +35,14 @@ services:
       - 8080:80
     environment:
       - PMA_ARBITRARY=1
+
+
+  nginx:
+    image: nginx:1.15-alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./data/nginx:/etc/nginx/conf.d
+  certbot:
+    image: certbot/certbot
