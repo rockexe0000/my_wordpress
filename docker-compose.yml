@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  wordpress:
+  wordpress.cfc104:
     image: wordpress:5.9.2
     restart: always
     container_name: wordpress-web
@@ -44,5 +44,10 @@ services:
       - "443:443"
     volumes:
       - ./data/nginx:/etc/nginx/conf.d
+      - ./data/certbot/conf:/etc/letsencrypt
+      - ./data/certbot/www:/var/www/certbot
   certbot:
     image: certbot/certbot
+    volumes:
+      - ./data/certbot/conf:/etc/letsencrypt
+      - ./data/certbot/www:/var/www/certbot
