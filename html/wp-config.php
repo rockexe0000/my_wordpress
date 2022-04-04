@@ -132,6 +132,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
 
+define( 'FS_METHOD', 'direct' );
 
 @ini_set( 'upload_max_filesize' , '512M' );
 @ini_set( 'post_max_size', '512M');
