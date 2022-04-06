@@ -1,0 +1,162 @@
+2022-03-25T01:26:43+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:26:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:26:49+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:26:50+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:44:18+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:57:03+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:57:06+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:59:04+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T01:59:26+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T02:01:27+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T02:01:41+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T02:01:55+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T02:06:08+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T02:21:38+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T07:24:48+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T07:27:43+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T07:35:58+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
+2022-03-25T07:36:57+00:00 CRITICAL Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php:84
+Stack trace:
+#0 /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php(45): MailPoet\Doctrine\ConnectionFactory->getDriverOptions('+08:00', 'utf8mb4', 'utf8mb4_unicode...')
+#1 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(444): MailPoet\Doctrine\ConnectionFactory->createConnection()
+#2 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1874): MailPoetGenerated\FreeCachedContainer->getConnectionService()
+#3 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(454): MailPoetGenerated\FreeCachedContainer->getEntityManagerFactoryService()
+#4 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(1842): MailPoetGenerated\FreeCachedContainer->getEntityManagerService()
+#5 /var/www/html/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php(312 in /var/www/html/wp-content/plugins/mailpoet/lib/Doctrine/ConnectionFactory.php on line 84
+
